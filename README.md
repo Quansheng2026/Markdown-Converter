@@ -14,6 +14,8 @@
 
    `C:\Users\[USERNAME]\Downloads\MD_Converter_v1.1.0_Setup.exe`
 
+   No need to create desktop shortcut. 
+
    Default installation location:
 
    `C:\Users\[USERNAME]\AppData\Local\Programs\MD_Converter\MD_Converter.exe`
@@ -24,7 +26,7 @@
 
    `C:\Users\[USERNAME]\Documents\MD_Converter\output`
 
-3. **Add MD Converter to the PATH Environment Variable**
+4. **Add MD Converter to the PATH Environment Variable**
 
    Add the following installation directory to the Windows `PATH` environment variable:
 
@@ -34,7 +36,7 @@
 
    You can then run MD Converter directly from either **Command Prompt (CMD)** or **PowerShell**.
 
-4. **Usage Example**
+5. **Usage Example**
 
    Markdown document:
 
@@ -48,7 +50,7 @@
 
    `C:\Users\[USERNAME]\Documents\MD_Converter\output\test.docx`
 
-5. **Uninstall**
+6. **Uninstall**
 
    Run the following uninstaller:
 
