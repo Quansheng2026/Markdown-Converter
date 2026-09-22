@@ -12,7 +12,7 @@
 
    Run:
 
-   `C:\Users\[USERNAME]\Documents\projects\MD_Converter\dist_installer\MD_Converter_v1.1.0_Setup.exe`
+   `C:\Users\[USERNAME]\Downloads\MD_Converter_v1.1.0_Setup.exe`
 
    Default installation location:
 
